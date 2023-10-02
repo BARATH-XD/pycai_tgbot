@@ -1,3 +1,5 @@
 .env
 my_bot.session-journal
 my_bot.session
+CAIbot/__pycache__
+CAIbot/plugins/__pycache__
